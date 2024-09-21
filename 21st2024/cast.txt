@@ -1,5 +1,5 @@
 21ST NIGHT 2024 HUNGER GAMES
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202024/logo.gif
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2024/logo.gif
 
 
 Team 21st
@@ -8,13 +8,13 @@ Team 21st
 Earth, Wind & Fire
 Earth, Wind & Fire
 3
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202023/Earth%20Wind%20And%20Fire.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2023/EarthWindAndFire.png
 BW
 
 21 Kid
 21 Kid
 1
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/NEWER/Participants/21%20Child.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/NEWER/Participants/21Child.png
 BW
 
 Penn Jillette
@@ -30,19 +30,19 @@ Team Duo
 Sneed & Chuck
 Sneed & Chuck
 3
-https://raw.githubusercontent.com/80constant/HungerGames/main/NEWER/Participants/Sneed%20and%20Chuck.png?token=GHSAT0AAAAAACPADD3DOJ5LC2RYGUZCUGVEZPQAMHA
+https://raw.githubusercontent.com/80constant/HungerGames/main/NEWER/Participants/SneedandChuck.png?token=GHSAT0AAAAAACPADD3DOJ5LC2RYGUZCUGVEZPQAMHA
 BW
 
 Beavis & Butthead
 Beavis & Butthead
 3
-https://raw.githubusercontent.com/80constant/HungerGames/main/21st%202023/Beavis%20and%20Butthead.png?token=GHSAT0AAAAAACPADD3DYG2VWP43M5N5PSNAZPQANDA
+https://raw.githubusercontent.com/80constant/HungerGames/main/21st2023/BeavisandButthead.png?token=GHSAT0AAAAAACPADD3DYG2VWP43M5N5PSNAZPQANDA
 BW
 
 Built By Gamers
 Built By Gamers
 3
-https://raw.githubusercontent.com/80constant/HungerGames/main/Birthday%20Bash%203/Built%20By%20Gamers.png?token=GHSAT0AAAAAACPADD3CTXW5QV7ZOMTCFNXGZPQCLIQ
+https://raw.githubusercontent.com/80constant/HungerGames/main/BirthdayBash3/BuiltByGamers.png?token=GHSAT0AAAAAACPADD3CTXW5QV7ZOMTCFNXGZPQCLIQ
 BW
 
 
@@ -58,13 +58,13 @@ BW
 Little Caesar
 Little Caesar
 1
-https://raw.githubusercontent.com/80constant/HungerGames/main/NEWER/Participants/Little%20Caesar.png?token=GHSAT0AAAAAACPADD3DJ77KLR6NHX2YJXQYZPQAOYQ
+https://raw.githubusercontent.com/80constant/HungerGames/main/NEWER/Participants/LittleCaesar.png?token=GHSAT0AAAAAACPADD3DJ77KLR6NHX2YJXQYZPQAOYQ
 BW
 
 Betro
 Betro
 4
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202024/Betro.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2024/Betro.png
 BW
 
 
@@ -74,19 +74,19 @@ Team Doctor
 Dr. Pepper
 Dr. Pepper
 1
-https://raw.githubusercontent.com/80constant/HungerGames/main/21st%204/DrPepper.png?token=GHSAT0AAAAAACPADD3CMIX7OSFOFSDKALDAZPQAWIQ
+https://raw.githubusercontent.com/80constant/HungerGames/main/21st4/DrPepper.png?token=GHSAT0AAAAAACPADD3CMIX7OSFOFSDKALDAZPQAWIQ
 BW
 
 Dr. House
 Dr. House
 1
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202024/DrHouse.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2024/DrHouse.png
 BW
 
 Dr. Evil
 Dr. Evil
 1
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202024/DrEvil.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2024/DrEvil.png
 BW
 
 
@@ -96,19 +96,19 @@ Team Young Performer
 IShowSpeed
 Speed
 1
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202024/Speed.png
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202024/SpeedDead.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2024/Speed.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2024/SpeedDead.png
 
 Dingaling Kid
 Dingaling Kid
 1
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202024/MyDingalingKid.png
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202024/MyDingalingKidDead.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2024/MyDingalingKid.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2024/MyDingalingKidDead.png
 
 Bolbi
 Bolbi
 1
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202024/Bolbi.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2024/Bolbi.png
 BW
 
 
@@ -118,19 +118,19 @@ Team Cryptid
 The Pingas Monster
 The Pingas Monster
 2
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202024/PingasMonster.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2024/PingasMonster.png
 BW
 
 Water Daniel
 Water Daniel
 1
-https://raw.githubusercontent.com/80constant/HungerGames/main/Birthday%20Bash/new/Water%20Daniel.png?token=GHSAT0AAAAAACPADD3CTP3VXRPXOZUFAW2UZPQAXSA
+https://raw.githubusercontent.com/80constant/HungerGames/main/BirthdayBash/new/WaterDaniel.png?token=GHSAT0AAAAAACPADD3CTP3VXRPXOZUFAW2UZPQAXSA
 BW
 
 Skibidi Biden
 Skibidi Biden
 1
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202024/SkibidiBiden.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2024/SkibidiBiden.png
 BW
 
 
@@ -140,19 +140,19 @@ Team Horror
 Ao Oni
 Ao Oni
 2
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202024/Ao%20Oni.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2024/AoOni.png
 BW
 
 King Ramses
 King Ramses
 1
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202024/KingRamses.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2024/KingRamses.png
 BW
 
 The Thing
 The Thing
 2
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202024/TheThing.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2024/TheThing.png
 BW
 
 
@@ -162,19 +162,19 @@ Team Incomprehensible
 Ben Sokadoo
 Ben
 1
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202024/Ben.png
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202024/BenDead.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2024/Ben.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2024/BenDead.png
 
 Donald Duck
 Donald
 1
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/Darkest%20Shattle/Donald%20Duck.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/DarkestShattle/DonaldDuck.png
 BW
 
 Gambit
 Gambit
 1
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202024/Gambit.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2024/Gambit.png
 BW
 
 
@@ -184,19 +184,19 @@ Team Error
 Lain Iwakura
 Lain
 0
-https://raw.githubusercontent.com/80constant/HungerGames/main/Birthday%20Bash/Lain.png?token=GHSAT0AAAAAACPADD3CKQRPAYUTLB2WDPBQZPQAXIQ
+https://raw.githubusercontent.com/80constant/HungerGames/main/BirthdayBash/Lain.png?token=GHSAT0AAAAAACPADD3CKQRPAYUTLB2WDPBQZPQAXIQ
 BW
 
 Friend Inside Me
 Friend Inside Me
 2
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202024/FriendInsideMe.png
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202024/FriendInsideMeDead.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2024/FriendInsideMe.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2024/FriendInsideMeDead.png
 
 Lost Media
 Lost Media
 1
-https://raw.githubusercontent.com/80constant/HungerGames/main/Birthday%20Bash%203/Lost%20Media.png?token=GHSAT0AAAAAACPADD3DJTQACCWQHIHCBA2AZPQCLZQ
+https://raw.githubusercontent.com/80constant/HungerGames/main/BirthdayBash3/LostMedia.png?token=GHSAT0AAAAAACPADD3DJTQACCWQHIHCBA2AZPQCLZQ
 BW
 
 
@@ -206,19 +206,19 @@ Team Social
 Geoff Keighley
 Geoff Keighley
 1
-https://raw.githubusercontent.com/80constant/HungerGames/main/21st%204/Geoff.png?token=GHSAT0AAAAAACPADD3CESTIKWJHDRNN3IMMZPQATRA
+https://raw.githubusercontent.com/80constant/HungerGames/main/21st4/Geoff.png?token=GHSAT0AAAAAACPADD3CESTIKWJHDRNN3IMMZPQATRA
 BW
 
 Stephen Strange
 Stephen Strange
 1
-https://raw.githubusercontent.com/80constant/HungerGames/main/21st%202023/StephanStrange.png?token=GHSAT0AAAAAACPADD3CPNCXC2O2E4VIDQMIZPQANOA
+https://raw.githubusercontent.com/80constant/HungerGames/main/21st2023/StephanStrange.png?token=GHSAT0AAAAAACPADD3CPNCXC2O2E4VIDQMIZPQANOA
 BW
 
 Costco Guys
 Costco Guys
 3
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202024/CostcoGuys.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2024/CostcoGuys.png
 BW
 
 
@@ -228,19 +228,19 @@ Team Unstable
 The Gang
 The Gang
 3
-https://raw.githubusercontent.com/80constant/HungerGames/main/21st%204/TheGang.png?token=GHSAT0AAAAAACPADD3CAPIVD5LQOIKZJSRGZPQAVSA
+https://raw.githubusercontent.com/80constant/HungerGames/main/21st4/TheGang.png?token=GHSAT0AAAAAACPADD3CAPIVD5LQOIKZJSRGZPQAVSA
 BW
 
 Anton Chigurh
 Anton
 1
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202024/Anton.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2024/Anton.png
 BW
 
 Stephen's Chud Stepson
 Stephen's Chud Stepson
 1
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202024/ChudStepson.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2024/ChudStepson.png
 BW
 
 
@@ -250,19 +250,19 @@ Team Working Class
 Hal Wilkerson
 Hal
 1
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202024/Hal.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2024/Hal.png
 BW
 
 Bill Lumbergh
 Lumbergh
 1
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202024/Lumbergh.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2024/Lumbergh.png
 BW
 
 Mr. Boss
 Mr. Boss
 1
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202024/MrBoss.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2024/MrBoss.png
 BW
 
 
@@ -272,19 +272,19 @@ Team Reaction
 Abraham Lincoln Standing Up
 Abraham Lincoln Standing Up
 1
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202024/AbeLincolnStandingUp.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2024/AbeLincolnStandingUp.png
 BW
 
 Keicho Nijimura
 Keicho
 1
-https://raw.githubusercontent.com/80constant/HungerGames/main/21st%202023/Keicho.png?token=GHSAT0AAAAAACPADD3CIURBX3KDX363RN5EZPQATEQ
-https://raw.githubusercontent.com/80constant/HungerGames/main/21st%202023/KeichoDead.png?token=GHSAT0AAAAAACPADD3DZHQ5LTKIUGVE7MR2ZPQATIQ
+https://raw.githubusercontent.com/80constant/HungerGames/main/21st2023/Keicho.png?token=GHSAT0AAAAAACPADD3CIURBX3KDX363RN5EZPQATEQ
+https://raw.githubusercontent.com/80constant/HungerGames/main/21st2023/KeichoDead.png?token=GHSAT0AAAAAACPADD3DZHQ5LTKIUGVE7MR2ZPQATIQ
 
 Mammoth Work
 Mammoth Work
 4
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202024/MamothWork.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2024/MamothWork.png
 BW
 
 
@@ -294,20 +294,20 @@ Team Emo
 Fred Durst
 Fred Durst
 1
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202024/FredDurst.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2024/FredDurst.png
 BW
 
 Shadow The Hedgehog
 Shadow
 1
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202024/Shadow.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2024/Shadow.png
 BW
 
 Paracelsus
 Paracelsus
 1
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202024/Paracelsus.png
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202024/ParacelsusDead.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2024/Paracelsus.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2024/ParacelsusDead.png
 
 
 Team Synthetic
@@ -316,19 +316,19 @@ Team Synthetic
 Dave Ming Chang
 Dave
 1
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202024/Dave.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2024/Dave.png
 BW
 
 Aigis
 Aigis
 0
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/Birthday%20Bash%203/Aigis.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/BirthdayBash3/Aigis.png
 BW
 
 Jack Black Steve
 Jack Black Steve
 1
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202024/JackBlackSteve.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2024/JackBlackSteve.png
 BW
 
 
@@ -338,17 +338,17 @@ Team Oldhead
 Oppenheimer
 Oppy
 1
-https://raw.githubusercontent.com/80constant/HungerGames/main/Birthday%20Bash%203/oppy.png?token=GHSAT0AAAAAACPADD3DAZS2BZHLAQSFFCLOZPQCMQQ
-https://raw.githubusercontent.com/80constant/HungerGames/main/Birthday%20Bash%203/oppylose.png?token=GHSAT0AAAAAACPADD3CNYYY4RXUD6GTFH5OZPQCMVA
+https://raw.githubusercontent.com/80constant/HungerGames/main/BirthdayBash3/oppy.png?token=GHSAT0AAAAAACPADD3DAZS2BZHLAQSFFCLOZPQCMQQ
+https://raw.githubusercontent.com/80constant/HungerGames/main/BirthdayBash3/oppylose.png?token=GHSAT0AAAAAACPADD3CNYYY4RXUD6GTFH5OZPQCMVA
 
 Norm
 Norm
 1
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202024/Norm.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2024/Norm.png
 BW
 
 Chrom
 Chrom
 1
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202024/Chrom.png
-https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st%202024/ChromDead.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2024/Chrom.png
+https://raw.githubusercontent.com/80constant/HungerGames/refs/heads/main/21st2024/ChromDead.png
